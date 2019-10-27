@@ -1,5 +1,7 @@
 # Discover Live Music
 
+[Link to Site](https://seliades.github.io/Discover-live-music/)
+
 This web application is designed to allow user to explore the music that is going to be in there area. Whether or you searching for bands you already know or are looking for something totally new this app can help. You are presented with 2 options of the homepage "Search by Artist" and "Search by Location". Powered by SeatGeek and Spotify APIs, you can listen to new bands before you decide to buy ticket or check out the opening acts that are playing with your favorite bands. Simply log in to Spotify from our page and you can explore all the live music in your area and beyond.
 
 ## Search by Artist
